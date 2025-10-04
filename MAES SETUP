@@ -1,1 +1,24 @@
+  ____  _            ____  _      _ _         
+ |  _ \| |          / __ \| |    (_) |       
+ | |_) | | _____  _| |  | | |     _| |_ ___     
+ |  _ <| |/ _ \ \/ / |  | | |    | | __/ _ \    
+ | |_) | | (_) >  <| |__| | |____| | ||  __/    
+ |____/|_|\___/_/\_\\____/|______|_|\__\___|   
 
+
+1. Add the MAES File to your game
+2. Drag the 'Server' folder into ServerScriptService
+3. Ungroup it
+4. Go to BloxOLite_Server -> BloxOLite_Config and open it
+5. Change the prefix, hotkey to what you like or leave it
+6, Change the datastore name to they are custom for you (E.g. BloxOLiteBanDataStore, BloxOLiteModlogs)
+7. Chnage the Webhook to your URL (Should look like ' https://discord.com/api/webhooks/1424175961233948752/MYMFgb-SU-aMBStocNoGetFJoGRiiuGRRDbWt32dGR_6sah33ppeg2QoEzrznx1HYMbF ')
+7. Input your groupID (Should look like ' 591239665 ' )
+8. Change the rank's group rank to what you want the rank to be locked to (E.g. ["Rank_Needed"] = 255 )
+
+NOTE: 
+By buying are product you agree to are TOS
+The Webhook shown in this Setup is a example you cant send anything to it.
+
+Last Updated:
+5/10/25, FJFG11
